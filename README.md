@@ -6,9 +6,9 @@
       easily extended to help users find empty spots by displaying information on the main screen at the entrance.
 
 - 📫 How to reach me ...
-  Twitter: @Waleed_BNS
-  WhatsApp: +966535469401
-  Email: wbinsalman.coe@gmail.com
+  \nTwitter: @Waleed_BNS
+  \nWhatsApp: +966535469401
+  \nEmail: wbinsalman.coe@gmail.com
 
 <!---
 melado1998/melado1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
